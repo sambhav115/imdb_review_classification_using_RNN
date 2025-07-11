@@ -1,4 +1,4 @@
-# steamlit_ml_classification
+# rnn_review_classification
 
 To run streamlit application type this in cmd
 
